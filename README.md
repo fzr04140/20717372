@@ -1,3 +1,5 @@
+# Open my Supplementary Material.zip file. It contains my code and data, proposal file!!!
+
 # Bayesian Belief Network + LLM Semantic CPT Fusion
 # Supplementary Code Documentation
 
